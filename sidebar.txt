@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gih:home|Door43 (gih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gih|d43-gih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gih/archive/master.zip|d43-gih.zip]]
+
+**Recent Changes**
+{{changes>ns = gih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gih|Ethnologue data]]
+
